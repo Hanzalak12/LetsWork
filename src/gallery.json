@@ -1,0 +1,122 @@
+[
+    {
+      "property": "High Days Hotel",
+      "category": "3 star",
+      "type": "Hostel",
+      "img": "https://picsum.photos/300/450"
+    },
+    {
+      "property": "Luxury Inn & Suites Lorem ipsum dolor",
+      "category": "3 star",
+      "type": "Hotel",
+      "img": "https://picsum.photos/250"
+    },
+    {
+      "property": "Best Rates Motel",
+      "category": "4 star",
+      "type": "Motel",
+      "img": "https://picsum.photos/600"
+    },
+    {
+      "property": "Estates Motel",
+      "category": "5 star",
+      "type": "Hostel",
+      "img": "https://picsum.photos/400"
+    },
+    {
+      "property": "Blissful Breaks B&B Lorem ipsum",
+      "category": "4 star",
+      "type": "Hostel",
+      "img": "https://picsum.photos/600"
+    },
+    {
+      "property": "Simply Relax Hotel",
+      "category": "3 star",
+      "type": "Hotel",
+      "img": "https://picsum.photos/450"
+    },
+    {
+      "property": "Triple Z B&B",
+      "category": "4 star",
+      "type": "Motel",
+      "img": "https://picsum.photos/800"
+    },
+    {
+      "property": "Living Luxury Motel",
+      "category": "4 star",
+      "type": "Motel",
+      "img": "https://picsum.photos/600/800"
+    },
+    {
+      "property": "Adventure Stays Inn",
+      "category": "5 star",
+      "type": "Motel",
+      "img": "https://picsum.photos/250/250"
+    },
+    {
+      "property": "Elegant Relax Hotel",
+      "category": "5 star",
+      "type": "Hotel",
+      "img": "https://picsum.photos/350"
+    },
+    {
+      "property": "Paradise Stays Motel",
+      "category": "2 star",
+      "type": "Motel",
+      "img": "https://picsum.photos/550"
+    },
+    {
+      "property": "Serenity Stay Suites Lorem ipsum",
+      "category": "4 star",
+      "type": "Hostel",
+      "img": "https://picsum.photos/600/550"
+    },
+    {
+      "property": "Nest Up B&B",
+      "category": "3 star",
+      "type": "Motel",
+      "img": "https://picsum.photos/250"
+    },
+    {
+      "property": "Refresh Hotel & Suites",
+      "category": "4 star",
+      "type": "Hotel",
+      "img": "https://picsum.photos/650/400"
+    },
+    {
+      "property": "Comfort First Motel",
+      "category": "2 star",
+      "type": "Motel",
+      "img": "https://picsum.photos/300/600"
+    },
+    {
+      "property": "Feet Up B&B",
+      "category": "2 star",
+      "type": "Hotel",
+      "img": "https://picsum.photos/450/300"
+    },
+    {
+      "property": "The Best Nest B&B",
+      "category": "4 star",
+      "type": "Motel",
+      "img": "https://picsum.photos/650/600"
+    },
+    {
+      "property": "B&B Balance",
+      "category": "2 star",
+      "type": "Hotel",
+      "img": "https://picsum.photos/900/450"
+    },
+    {
+      "property": "Hotel Paradise Lorem ipsum dolor",
+      "category": "2 star",
+      "type": "Hotel",
+      "img": "https://picsum.photos/650"
+    },
+    {
+      "property": "Mother's Best B&B",
+      "category": "4 star",
+      "type": "Hotel",
+      "img": "https://picsum.photos/600/500"
+    }
+  ]
